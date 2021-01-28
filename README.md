@@ -14,3 +14,6 @@ In this project, we build a basic, conservative garbage collector for C programs
 * Memory structures in C
 * Applications of bitwise operations
 * Pros and Cons of garbage collecting in C
+
+## Note
+In order to run, all you have to do is run the makefile on the command line.
